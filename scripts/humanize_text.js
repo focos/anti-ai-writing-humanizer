@@ -26,7 +26,7 @@ function main(args) {
       if (!args[i+1] || args[i+1].startsWith('-')) throw new Error(arg+' 缺少参数');
       const value=args[++i];
       if (arg==='--genre') {
-        if (!['academic','tech','emotion','finance','general'].includes(value)) throw new Error('不支持的文体');
+        if (!['business','tech','emotion','finance','general'].includes(value)) throw new Error('不支持的文体');
         options.genre=value;
       } else output=value;
     } else throw new Error('不支持的参数：'+arg);
