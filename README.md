@@ -1,4 +1,4 @@
-# Anti-AI Writing Humanizer (中文表达去模板化与自然表达重构)
+# Anti-AI Writing Humanizer (中文去AI味 · 文本去模板化与人类质感重构)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agent_Skills-Open_Standard-blue.svg" alt="Agent Skills Standard" />
